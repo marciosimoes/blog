@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Melhores frases e monólogos de Westworld"
+title:  "Melhores frases e monólogos de Mr. Robot"
 description: Mr. Robot é uma série pouco reconhecida e infelizmente não muito difundida por aí, para mim foi uma das melhores séries do ano e tenho grandes expectativas para o episódio final que será exibido ainda hoje através do canal USA Network [...]
 tags: [series-de-tv]
 image:
